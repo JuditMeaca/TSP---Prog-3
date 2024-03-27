@@ -1,0 +1,190 @@
+La Plata;Mar del Plata;400
+La Plata;Bahía Blanca;600
+La Plata;Tandil;300
+La Plata;Olavarría;450
+La Plata;Pergamino;200
+La Plata;San Nicolás;250
+La Plata;Junín;350
+La Plata;Azul;400
+La Plata;Necochea;550
+La Plata;Luján;200
+La Plata;Dolores;150
+La Plata;Chascomús;100
+La Plata;Bolívar;500
+La Plata;Trenque Lauquen;350
+La Plata;Las Flores;200
+La Plata;Campana;300
+La Plata;Lincoln;210
+La Plata;Laprida;320
+La Plata;Puan;180
+Mar del Plata;Bahía Blanca;800
+Mar del Plata;Tandil;700
+Mar del Plata;Olavarría;550
+Mar del Plata;Pergamino;450
+Mar del Plata;San Nicolás;600
+Mar del Plata;Junín;800
+Mar del Plata;Azul;750
+Mar del Plata;Necochea;350
+Mar del Plata;Luján;450
+Mar del Plata;Dolores;700
+Mar del Plata;Chascomús;600
+Mar del Plata;Bolívar;250
+Mar del Plata;Trenque Lauquen;600
+Mar del Plata;Las Flores;250
+Mar del Plata;Campana;290
+Mar del Plata;Lincoln;205
+Mar del Plata;Laprida;326
+Mar del Plata;Puan;175
+Bahía Blanca;Tandil;900
+Bahía Blanca;Olavarría;750
+Bahía Blanca;Pergamino;500
+Bahía Blanca;San Nicolás;700
+Bahía Blanca;Junín;850
+Bahía Blanca;Azul;950
+Bahía Blanca;Necochea;950
+Bahía Blanca;Luján;500
+Bahía Blanca;Dolores;800
+Bahía Blanca;Chascomús;700
+Bahía Blanca;Bolívar;450
+Bahía Blanca;Trenque Lauquen;800
+Bahía Blanca;Las Flores;200
+Bahía Blanca;Campana;280
+Bahía Blanca;Lincoln;225
+Bahía Blanca;Laprida;329
+Bahía Blanca;Puan;170
+Tandil;Olavarría;650
+Tandil;Pergamino;400
+Tandil;San Nicolás;200
+Tandil;Junín;400
+Tandil;Azul;550
+Tandil;Necochea;300
+Tandil;Luján;400
+Tandil;Dolores;500
+Tandil;Chascomús;550
+Tandil;Bolívar;650
+Tandil;Trenque Lauquen;300
+Tandil;Las Flores;100
+Tandil;Campana;180
+Tandil;Lincoln;125
+Tandil;Laprida;129
+Tandil;Puan;70
+Olavarría;Pergamino;450
+Olavarría;San Nicolás;650
+Olavarría;Junín;500
+Olavarría;Azul;350
+Olavarría;Necochea;250
+Olavarría;Luján;600
+Olavarría;Dolores;550
+Olavarría;Chascomús;650
+Olavarría;Bolívar;700
+Olavarría;Trenque Lauquen;400
+Olavarría;Las Flores;80
+Olavarría;Campana;280
+Olavarría;Lincoln;325
+Olavarría;Laprida;329
+Olavarría;Puan;400
+Pergamino;San Nicolás;300
+Pergamino;Junín;150
+Pergamino;Azul;200
+Pergamino;Necochea;550
+Pergamino;Luján;350
+Pergamino;Dolores;250
+Pergamino;Chascomús;300
+Pergamino;Bolívar;400
+Pergamino;Trenque Lauquen;450
+Pergamino;Las Flores;120
+Pergamino;Campana;170
+Pergamino;Lincoln;208
+Pergamino;Laprida;300
+Pergamino;Puan;410
+San Nicolás;Junín;400
+San Nicolás;Azul;550
+San Nicolás;Necochea;350
+San Nicolás;Luján;550
+San Nicolás;Dolores;400
+San Nicolás;Chascomús;350
+San Nicolás;Bolívar;600
+San Nicolás;Trenque Lauquen;200
+San Nicolás;Las Flores;520
+San Nicolás;Campana;470
+San Nicolás;Lincoln;608
+San Nicolás;Laprida;700
+San Nicolás;Puan;412
+Junín;Azul;600
+Junín;Necochea;350
+Junín;Luján;200
+Junín;Dolores;150
+Junín;Chascomús;100
+Junín;Bolívar;500
+Junín;Trenque Lauquen;350
+Junín;Las Flores;620
+Junín;Campana;570
+Junín;Lincoln;708
+Junín;Laprida;800
+Junín;Puan;612
+Azul;Necochea;800
+Azul;Luján;150
+Azul;Dolores;200
+Azul;Chascomús;300
+Azul;Bolívar;450
+Azul;Trenque Lauquen;300
+Azul;Las Flores;320
+Azul;Campana;270
+Azul;Lincoln;108
+Azul;Laprida;500
+Azul;Puan;615
+Necochea;Luján;700
+Necochea;Dolores;800
+Necochea;Chascomús;750
+Necochea;Bolívar;450
+Necochea;Trenque Lauquen;800
+Necochea;Las Flores;320
+Necochea;Campana;370
+Necochea;Lincoln;308
+Necochea;Laprida;300
+Necochea;Puan;315
+Luján;Dolores;150
+Luján;Chascomús;300
+Luján;Bolívar;400
+Luján;Trenque Lauquen;550
+Luján;Las Flores;320
+Luján;Campana;370
+Luján;Lincoln;308
+Luján;Laprida;300
+Luján;Puan;315
+Dolores;Chascomús;150
+Dolores;Bolívar;250
+Dolores;Trenque Lauquen;400
+Dolores;Las Flores;139
+Dolores;Campana;368
+Dolores;Lincoln;443
+Dolores;Laprida;236
+Dolores;Puan;435
+Chascomús;Bolívar;350
+Chascomús;Trenque Lauquen;450
+Chascomús;Las Flores;120
+Chascomús;Campana;270
+Chascomús;Lincoln;308
+Chascomús;Laprida;400
+Chascomús;Puan;555
+Bolívar;Trenque Lauquen;350
+Bolívar;Las Flores;320
+Bolívar;Campana;370
+Bolívar;Lincoln;308
+Bolívar;Laprida;300
+Bolívar;Puan;315
+Campana;Las Flores;125
+Campana;Lincoln;134
+Campana;Laprida;98
+Campana;Puan;76
+Campana;Trenque Lauquen;111
+Las Flores;Lincoln;105
+Las Flores;Laprida;233
+Las Flores;Puan;99
+Las Flores;Trenque Lauquen;78
+Lincoln;Puan;88
+Lincoln;Trenque Lauquen;55
+Lincoln;Laprida;115
+Laprida;Trenque Lauquen;322
+Laprida;Puan;344
+Puan;Trenque Lauquen;355

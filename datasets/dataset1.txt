@@ -1,0 +1,10 @@
+Rauch;Tandil;10
+Rauch;Ayacucho;20
+Rauch;Azul;30
+Rauch;Olavarria;40
+Tandil;Ayacucho;15
+Tandil;Azul;12
+Tandil;Olavarria;18
+Ayacucho;Azul;25
+Ayacucho;Olavarria;14
+Azul;Olavarria;22

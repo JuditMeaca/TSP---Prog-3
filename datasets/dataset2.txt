@@ -1,0 +1,45 @@
+La Plata;Azul;141
+La Plata;Balcarce;134
+La Plata;Mar Del Plata;152
+La Plata;Necochea;173
+La Plata;Pehuajo;289
+La Plata;Tandil;326
+La Plata;Olavarria;329
+La Plata;Ayacucho;285
+La Plata;Buenos Aires;401
+Azul;Balcarce;24
+Azul;Mar Del Plata;48
+Azul;Necochea;168
+Azul;Pehuajo;210
+Azul;Tandil;197
+Azul;Olavarria;153
+Azul;Ayacucho;280
+Azul;Buenos Aires;272
+Balcarce;Mar Del Plata;24
+Balcarce;Necochea;163
+Balcarce;Pehuajo;206
+Balcarce;Tandil;182
+Balcarce;Olavarria;133
+Balcarce;Ayacucho;257
+Balcarce;Buenos Aires;248
+Mar Del Plata;Necochea;24
+Mar Del Plata;Pehuajo;163
+Mar Del Plata;Tandil;206
+Mar Del Plata;Olavarria;182
+Mar Del Plata;Ayacucho;133
+Mar Del Plata;Buenos Aires;257
+Necochea;Pehuajo;160
+Necochea;Tandil;203
+Necochea;Olavarria;167
+Necochea;Ayacucho;114
+Necochea;Buenos Aires;234
+Pehuajo;Tandil;250
+Pehuajo;Olavarria;271
+Pehuajo;Ayacucho;164
+Pehuajo;Buenos Aires;141
+Tandil;Olavarria;290
+Tandil;Ayacucho;299
+Tandil;Buenos Aires;295
+Olavarria;Ayacucho;194
+Olavarria;Buenos Aires;140
+Ayacucho;Buenos Aires;134

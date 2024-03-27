@@ -1,0 +1,105 @@
+La Plata;Mar del Plata;400
+La Plata;Bahía Blanca;600
+La Plata;Tandil;300
+La Plata;Olavarría;450
+La Plata;Pergamino;200
+La Plata;San Nicolás;250
+La Plata;Junín;350
+La Plata;Azul;400
+La Plata;Necochea;550
+La Plata;Luján;200
+La Plata;Dolores;150
+La Plata;Chascomús;100
+La Plata;Bolívar;500
+La Plata;Trenque Lauquen;350
+Mar del Plata;Bahía Blanca;800
+Mar del Plata;Tandil;700
+Mar del Plata;Olavarría;550
+Mar del Plata;Pergamino;450
+Mar del Plata;San Nicolás;600
+Mar del Plata;Junín;800
+Mar del Plata;Azul;750
+Mar del Plata;Necochea;350
+Mar del Plata;Luján;450
+Mar del Plata;Dolores;700
+Mar del Plata;Chascomús;600
+Mar del Plata;Bolívar;250
+Mar del Plata;Trenque Lauquen;600
+Bahía Blanca;Tandil;900
+Bahía Blanca;Olavarría;750
+Bahía Blanca;Pergamino;500
+Bahía Blanca;San Nicolás;700
+Bahía Blanca;Junín;850
+Bahía Blanca;Azul;950
+Bahía Blanca;Necochea;950
+Bahía Blanca;Luján;500
+Bahía Blanca;Dolores;800
+Bahía Blanca;Chascomús;700
+Bahía Blanca;Bolívar;450
+Bahía Blanca;Trenque Lauquen;800
+Tandil;Olavarría;650
+Tandil;Pergamino;400
+Tandil;San Nicolás;200
+Tandil;Junín;400
+Tandil;Azul;550
+Tandil;Necochea;300
+Tandil;Luján;400
+Tandil;Dolores;500
+Tandil;Chascomús;550
+Tandil;Bolívar;650
+Tandil;Trenque Lauquen;300
+Olavarría;Pergamino;450
+Olavarría;San Nicolás;650
+Olavarría;Junín;500
+Olavarría;Azul;350
+Olavarría;Necochea;250
+Olavarría;Luján;600
+Olavarría;Dolores;550
+Olavarría;Chascomús;650
+Olavarría;Bolívar;700
+Olavarría;Trenque Lauquen;400
+Pergamino;San Nicolás;300
+Pergamino;Junín;150
+Pergamino;Azul;200
+Pergamino;Necochea;550
+Pergamino;Luján;350
+Pergamino;Dolores;250
+Pergamino;Chascomús;300
+Pergamino;Bolívar;400
+Pergamino;Trenque Lauquen;450
+San Nicolás;Junín;400
+San Nicolás;Azul;550
+San Nicolás;Necochea;350
+San Nicolás;Luján;550
+San Nicolás;Dolores;400
+San Nicolás;Chascomús;350
+San Nicolás;Bolívar;600
+San Nicolás;Trenque Lauquen;200
+Junín;Azul;600
+Junín;Necochea;350
+Junín;Luján;200
+Junín;Dolores;150
+Junín;Chascomús;100
+Junín;Bolívar;500
+Junín;Trenque Lauquen;350
+Azul;Necochea;800
+Azul;Luján;150
+Azul;Dolores;200
+Azul;Chascomús;300
+Azul;Bolívar;450
+Azul;Trenque Lauquen;300
+Necochea;Luján;700
+Necochea;Dolores;800
+Necochea;Chascomús;750
+Necochea;Bolívar;450
+Necochea;Trenque Lauquen;800
+Luján;Dolores;150
+Luján;Chascomús;300
+Luján;Bolívar;400
+Luján;Trenque Lauquen;550
+Dolores;Chascomús;150
+Dolores;Bolívar;250
+Dolores;Trenque Lauquen;400
+Chascomús;Bolívar;350
+Chascomús;Trenque Lauquen;450
+Bolívar;Trenque Lauquen;350
